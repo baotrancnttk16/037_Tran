@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
-
+### Thông tin cá nhân
 ### Họ tên: NGUYỄN THỊ BẢO TRÂN
-# Năm sinh: 1997
+## Năm sinh: 1997
 ## MSSV: 1611020037
 ### Lớp: CNTT K16
 ### Trình độ: Đại học
