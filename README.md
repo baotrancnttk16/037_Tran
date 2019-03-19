@@ -13,11 +13,10 @@
 # 1. Link
 [Dự án cá nhân ](https://github.com/baotrancnttk16/037_Tran)
 
-# 1. Link
 [Facebook](https://www.facebook.com/nguyen.baotran.3110)
-# 1. Link
+
 [Twitter](https://twitter.com/?lang=en)
 
 
- ![Image](src)
+ ![Image](https://www.facebook.com/photo.php?fbid=852554375094225&set=picfp.100010190106921&type=3&theater)
 
