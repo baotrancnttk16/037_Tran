@@ -1,37 +1,23 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/baotrancnttk16/037_Tran/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Họ tên: NGUYỄN THỊ BẢO TRÂN
+# Năm sinh: 1997
+## MSSV: 1611020037
+### Lớp: CNTT K16
+### Trình độ: Đại học
+### Chuyên môn
+### Kinh nghiệm làm việc: chưa có kinh nghiệm
 
 - Bulleted
 - List
+# 1. Link
+[Dự án cá nhân ](https://github.com/baotrancnttk16/037_Tran)
 
-1. Numbered
-2. List
+# 1. Link
+[Facebook](https://www.facebook.com/nguyen.baotran.3110)
+# 1. Link
+[Twitter](https://twitter.com/?lang=en)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ ![Image](src)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baotrancnttk16/037_Tran/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
