@@ -5,7 +5,7 @@
 ## MSSV: 1611020037
 ### Lớp: CNTT K16
 ### Trình độ: Đại học
-### Chuyên môn
+### Chuyên môn:
 ### Kinh nghiệm làm việc: chưa có kinh nghiệm
 
 - Bulleted
